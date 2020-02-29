@@ -1,0 +1,86 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Bienvenidos a Cibertec Web Site</title>
+    <link href="css/site.css" rel="stylesheet" />
+</head>
+<body>
+    <header>
+        <a class="headerlogo" href="index.html">
+            <img src="images/cibertec.png" />
+        </a>
+        <nav class="dropdown">
+            <button class="menu-title">Menu</button>
+            <ul class="dropdown-content">
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="index.html">Registro</a></li>
+                <li><a href="index.html">Nuestros Productos</a></li>
+                <li><a href="index.html">Ubicanos</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section>
+        <h3>Bienvenidos a Cibertec</h3>
+        <form action="/" method="post">
+            <p>
+                Experiencia laboral:
+                EF: <input type="number" name="name" value="0" min="0" step="0.1" /> <br />
+                ADO: <input type="number" name="name" value="0" min="0" /> <br />
+                MVC: <input type="number" name="name" value="0" min="0" /> <br />
+                JavaScript: <input type="number" name="name" value="0" min="0" /> <br />
+            </p>
+            <p>
+                Código: <input type="type" readonly />
+            </p>
+            <p>
+                <datalist id="browsers">
+                    <option value="Internet Explorer"></option>
+                    <option value="Firefox"></option>
+                    <option value="Chrome"></option>
+                    <option value="Opera"></option>
+                    <option value="Safari"></option>
+                </datalist>
+                Browser Preferido: <input list="browsers" />
+            </p>
+            <p>
+                Nombre: <input type="type" required title="Ingresar el nombre"
+                               oninvalid="this.setCustomValidity('El nombre es requerido!'"
+                               oninput="setCustomValidity('') " />
+            </p>
+            <p>
+                Fecha de nacimiento: <input type="date" name="name" value="1992-0101" />
+            </p>
+            <p>
+                Edad: <input type="number" name="edad" value="0" min="18" max="75" step="1" />
+            </p>
+            <p>
+                Correo: <input type="email" name="name" placeholder="email@domain.com" />
+            </p>
+            <p>
+                Página web: <input type="url" />
+            </p>
+            <p>
+                Teléfono: <input type="tel" pattern="\d\d\d\-\d\d\d\d" />
+            </p>
+            <p>
+                Color Favorito: <input type="color" value="#97a40" />
+            </p>
+            <p>
+                Certificados: <input type="file" multiple accept=".xls, xlsx" />
+            </p>
+            <p>
+                Curriculum: <input type="file" accept=".pdf" />
+            </p>
+            <p>
+                <input type="submit" value="submit" />
+            </p>
+        </form>
+    </section>
+
+    <footer>
+        &copy; Todos los Derechos Reservados - <span id="date"></span>
+    </footer>
+    <script src="scripts/index.js"></script>
+</body>
+</html>

@@ -1,0 +1,28 @@
+Fundamentos diseño aplicaciones Web
+1. Definición de la arquitectura
+Escalabilidad: crecimiento de las transacciones (mayor número de usuarios y tipo de usuarios)
+Robustez: la aplicación soporta fallos, datos no consistentes, etc... sin que se pierda la disponibilidad de la aplicación ni los datos.
+Ambos están soportados por el Framework que se elija.
+
+Extensibilidad: la aplicación soporta nuevos componentes (extenderse)
+Está soportado por el desarrollo. Usar buenos estándares.
+
+Patrones:
+	De Arquitectura: Define la estructura de los componentes. A nivel de todo el software.
+	De Diseño: solución a una problemática. Ejemplos (DAO, factory, singleton)
+OBS: Ejemplo, el patrón MVC puede ser utilizado como patrón de diseño y también como de arquitectura. Nos damos cuenta cuando observamos la estructura del proyecto. Si MVC está aplicado a todo el proyecto (a nivel de estructura) será patrón de arquitectura y si por el contrario, está aplicado dentro de un componente o clase entonces está aplicado como patrón de diseño.
+
+2. Identificación y distribución del contenido
+UX: Accesibilidad-Navegabilidad
+
+3. SEO (Search Engine Optimization)
+Buenas prácticas para posicionamiento en buscadores.
+
+4. Personalización:
+* Globalización de la aplicación: tipos de datos como fechas, moneda, etc...
+* Localización: Idioma
+
+5. Configuración:
+Configuramos la aplicación para diferentes tipos de usuarios.
+
+

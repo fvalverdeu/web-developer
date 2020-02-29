@@ -1,0 +1,6 @@
+C:\Users\VS2017-SAB\source\repos\Cibertec.MVC\Cibertec.Models\bin\Debug\Cibertec.Models.dll
+C:\Users\VS2017-SAB\source\repos\Cibertec.MVC\Cibertec.Models\bin\Debug\Cibertec.Models.pdb
+C:\Users\VS2017-SAB\source\repos\Cibertec.MVC\Cibertec.Models\obj\Debug\Cibertec.Models.csprojAssemblyReference.cache
+C:\Users\VS2017-SAB\source\repos\Cibertec.MVC\Cibertec.Models\obj\Debug\Cibertec.Models.csproj.CoreCompileInputs.cache
+C:\Users\VS2017-SAB\source\repos\Cibertec.MVC\Cibertec.Models\obj\Debug\Cibertec.Models.dll
+C:\Users\VS2017-SAB\source\repos\Cibertec.MVC\Cibertec.Models\obj\Debug\Cibertec.Models.pdb

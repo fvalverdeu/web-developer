@@ -1,0 +1,9 @@
+C:\Users\VS2017-SAB\source\repos\Cibertec.MVC\Cibertec.Repositories\bin\Debug\Cibertec.Repositories.dll
+C:\Users\VS2017-SAB\source\repos\Cibertec.MVC\Cibertec.Repositories\bin\Debug\Cibertec.Repositories.pdb
+C:\Users\VS2017-SAB\source\repos\Cibertec.MVC\Cibertec.Repositories\bin\Debug\Cibertec.Models.dll
+C:\Users\VS2017-SAB\source\repos\Cibertec.MVC\Cibertec.Repositories\bin\Debug\Cibertec.Models.pdb
+C:\Users\VS2017-SAB\source\repos\Cibertec.MVC\Cibertec.Repositories\obj\Debug\Cibertec.Repositories.csprojAssemblyReference.cache
+C:\Users\VS2017-SAB\source\repos\Cibertec.MVC\Cibertec.Repositories\obj\Debug\Cibertec.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\VS2017-SAB\source\repos\Cibertec.MVC\Cibertec.Repositories\obj\Debug\Cibertec.Repositories.csproj.CopyComplete
+C:\Users\VS2017-SAB\source\repos\Cibertec.MVC\Cibertec.Repositories\obj\Debug\Cibertec.Repositories.dll
+C:\Users\VS2017-SAB\source\repos\Cibertec.MVC\Cibertec.Repositories\obj\Debug\Cibertec.Repositories.pdb

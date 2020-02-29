@@ -1,0 +1,13 @@
+C:\Users\VS2017-SAB\Desktop\Proyectos\Capitulo03\CibertecWebAppCore\CibertecCore.html\bin\Debug\netcoreapp2.1\CibertecCore.html.deps.json
+C:\Users\VS2017-SAB\Desktop\Proyectos\Capitulo03\CibertecWebAppCore\CibertecCore.html\bin\Debug\netcoreapp2.1\CibertecCore.html.runtimeconfig.json
+C:\Users\VS2017-SAB\Desktop\Proyectos\Capitulo03\CibertecWebAppCore\CibertecCore.html\bin\Debug\netcoreapp2.1\CibertecCore.html.runtimeconfig.dev.json
+C:\Users\VS2017-SAB\Desktop\Proyectos\Capitulo03\CibertecWebAppCore\CibertecCore.html\bin\Debug\netcoreapp2.1\CibertecCore.html.dll
+C:\Users\VS2017-SAB\Desktop\Proyectos\Capitulo03\CibertecWebAppCore\CibertecCore.html\bin\Debug\netcoreapp2.1\CibertecCore.html.pdb
+C:\Users\VS2017-SAB\Desktop\Proyectos\Capitulo03\CibertecWebAppCore\CibertecCore.html\obj\Debug\netcoreapp2.1\CibertecCore.html.csproj.CoreCompileInputs.cache
+C:\Users\VS2017-SAB\Desktop\Proyectos\Capitulo03\CibertecWebAppCore\CibertecCore.html\obj\Debug\netcoreapp2.1\CibertecCore.html.RazorAssemblyInfo.cache
+C:\Users\VS2017-SAB\Desktop\Proyectos\Capitulo03\CibertecWebAppCore\CibertecCore.html\obj\Debug\netcoreapp2.1\CibertecCore.html.RazorAssemblyInfo.cs
+C:\Users\VS2017-SAB\Desktop\Proyectos\Capitulo03\CibertecWebAppCore\CibertecCore.html\obj\Debug\netcoreapp2.1\CibertecCore.html.AssemblyInfoInputs.cache
+C:\Users\VS2017-SAB\Desktop\Proyectos\Capitulo03\CibertecWebAppCore\CibertecCore.html\obj\Debug\netcoreapp2.1\CibertecCore.html.AssemblyInfo.cs
+C:\Users\VS2017-SAB\Desktop\Proyectos\Capitulo03\CibertecWebAppCore\CibertecCore.html\obj\Debug\netcoreapp2.1\CibertecCore.html.RazorTargetAssemblyInfo.cache
+C:\Users\VS2017-SAB\Desktop\Proyectos\Capitulo03\CibertecWebAppCore\CibertecCore.html\obj\Debug\netcoreapp2.1\CibertecCore.html.dll
+C:\Users\VS2017-SAB\Desktop\Proyectos\Capitulo03\CibertecWebAppCore\CibertecCore.html\obj\Debug\netcoreapp2.1\CibertecCore.html.pdb
