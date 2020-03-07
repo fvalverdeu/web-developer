@@ -18,7 +18,7 @@ namespace Cibertec.Repositories.Dapper.Northwind
 
         }
 
-        public Orders GetById(string id)
+        public Orders GetById(int id)
         {
             using (var connection = new SqlConnection(_connectionString))
             {
